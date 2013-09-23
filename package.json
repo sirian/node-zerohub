@@ -1,0 +1,19 @@
+{
+    "name": "zerohub",
+    "description": "",
+    "version": "0.0.1",
+    "author": "Vasily Khayrulin <sirianru@gmail.com>",
+    "keywords": [],
+    "main": "./lib/index.js",
+    "dependencies": {
+        "zmq": "2.x",
+        "underscore": "1.5.1"
+    },
+    "bugs": {
+        "url": "https://github.com/sirian/zerohub/issues/new"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sirian/zerohub.git"
+    }
+}
